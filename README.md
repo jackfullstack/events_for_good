@@ -1,5 +1,9 @@
 # real_world_project
 
+snippets:
+1. Axios baseURL setup - EventCard
+2. Axios fetch object by id - EventDetails
+
 ## Project setup
 ```
 yarn install
